@@ -1,0 +1,14 @@
+{
+    "checkVM": true, /* checks if vm is on and allows vm toggle button */
+    "fakeOff": true, /* show vm as off while turning off */
+    "checkDiscord": false, /* checks for discord ping from icon on left panel */
+    "lockDevices": true, /* lock io device on shortcut */
+    "lockShortcut": [29, 42, 38], /* shortcut to lock the keyboard if above option is true */
+    "minHue": 0.64, /* min hue for every led (not custom) */
+    "maxHue": 0.84, /* max hue for every led (not custom) */
+    "colorStep": 0.01, /*  colour change when going forwards */
+    "colorBackstep": 0.025, /* colour change when going backwards */
+    "speed": 20, /* hue changes per second */
+    "keyboardFramerate": 20, /* frames per second */
+    "mouseFramerate": 20 /* frames per second */
+}
